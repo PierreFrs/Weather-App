@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import './Weather.scss';
+import './weather.scss';
 
 const Weather = () => {
     let today = new Date();
