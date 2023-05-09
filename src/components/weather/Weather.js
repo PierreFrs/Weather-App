@@ -11,7 +11,7 @@ const Weather = () => {
                 <div className="--form-control --my2">
                     <input type="text" placeholder='Search city name'/>
                 </div>
-                <div className="result --card --my2">
+                <div className="result --card --my2 --p">
                     <h2>Lille</h2>
                     <div className="icon">
                         <img src="" alt="" />
