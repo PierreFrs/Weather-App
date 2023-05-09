@@ -30,6 +30,10 @@ section {
         .weather-app {
             z-index: 99;
 
+            input {
+                color: black;
+            }
+
             *, .result {
                 color: #fff;
             }
